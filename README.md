@@ -15,12 +15,12 @@ Esta es una aplicación móvil simple desarrollada con React Native que te permi
 3. Inicia la aplicación en tu emulador o dispositivo: npm start
 
 ## Tecnologías Utilizadas:
--React Native
--Expo
--axios para realizar solicitudes HTTP.
--FlatList para mostrar la lista de bebidas.
--StyleSheet para estilos.
--StatusBar para personalizar la barra de estado.
+- React Native 
+- Expo 
+- axios para realizar solicitudes HTTP. 
+- FlatList para mostrar la lista de bebidas. 
+- StyleSheet para estilos. 
+- StatusBar para personalizar la barra de estado. 
 
 ## Características
 - Buscar bebidas por nombre.
